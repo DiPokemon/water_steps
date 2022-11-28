@@ -11,7 +11,7 @@
                 </div>
                 <div class="step_half">
                     <div class="step_text">
-                        <?= $item->title ?>
+                        <?= $item->text ?>
                     </div>
                 </div>
             </div>
